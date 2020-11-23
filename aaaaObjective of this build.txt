@@ -1,0 +1,12 @@
+Objectives of this build:
+
+Build 3.3.2.0
+
+
+
+
+This is a new major baseline potential fork as the WSU team is looking at running VP for environmental studies.  Need to specify any changes to be sure they
+are appropriate for both EPA and WSU.
+
+1.  Error occuring in long weather files - behavior is not correct.  Test case was a 100 year file from 2006 to 2106. 
+	Found problem in the way the weather file was being processed.  Converted to 4-digit weather files which fixed the issue

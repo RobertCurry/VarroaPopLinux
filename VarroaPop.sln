@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VarroaPop", "VarroaPop.vcxproj", "{85A6451C-0B03-4E89-B865-833D8DC2A3F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VarroaPopSetup", "..\VarroaPopSetup\VarroaPopSetup.vdproj", "{3B8BC684-11BC-41AC-B64F-3BF46D8EDB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A6451C-0B03-4E89-B865-833D8DC2A3F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85A6451C-0B03-4E89-B865-833D8DC2A3F7}.Debug|Win32.Build.0 = Debug|Win32
+		{85A6451C-0B03-4E89-B865-833D8DC2A3F7}.Release|Win32.ActiveCfg = Release|Win32
+		{85A6451C-0B03-4E89-B865-833D8DC2A3F7}.Release|Win32.Build.0 = Release|Win32
+		{3B8BC684-11BC-41AC-B64F-3BF46D8EDB5B}.Debug|Win32.ActiveCfg = Debug
+		{3B8BC684-11BC-41AC-B64F-3BF46D8EDB5B}.Release|Win32.ActiveCfg = Release
+		{3B8BC684-11BC-41AC-B64F-3BF46D8EDB5B}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
